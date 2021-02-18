@@ -1,1 +1,1 @@
-dssv
+snake s random věcma
